@@ -1,0 +1,6 @@
+framework module ZLMLogManagerFramework {
+  umbrella header "ZLMLogManagerFramework.h"
+
+  export *
+  module * { export * }
+}
